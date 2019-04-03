@@ -10,5 +10,6 @@
 
 ### Testing_Design_Strategies
   Concept and Skills:
-    * Domain Model
-    * TDD
+    * Domain Model    
+    * TDD  
+    
