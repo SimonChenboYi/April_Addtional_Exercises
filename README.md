@@ -4,12 +4,11 @@
 
 ### Object_Oriented_Code
   Concept and Skills:
-    * encapsulation
-    * OOP
-    * TDD
+    * encapsulation  
+    * OOP  
+    * TDD  
 
 ### Testing_Design_Strategies
-  Concept and Skills:
-    * Domain Model    
+  Concept and Skills:  
+    * Domain Model      
     * TDD  
-    
